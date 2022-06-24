@@ -27,7 +27,7 @@
 
 教务管理系统主要功能包括对院系信息、学生信息、教师信息、课程信息、班级信息、成绩信息管理，以及教师的登记成绩、教师学生选择班级的功能。主要功能如图：
 
-![image-20220624155218759](images/image-20220624155218759.png)
+![image-20220624155218759](https://github.com/ZihaoXTEI/EduAdminSys/tree/master/images/image-20220624155218759.png)
 
 ### 3.2 教师选择任课班级子系统
 
@@ -39,7 +39,7 @@
 
 **分E-R图**：
 
-![image-20220624155330568](images/image-20220624155330568.png)
+![image-20220624155330568](https://github.com/ZihaoXTEI/EduAdminSys/tree/master/images/image-20220624155330568.png)
 
 ### 3.3 学生选课子系统
 
@@ -50,7 +50,7 @@
 
 **分E-R图**：
 
-![image-20220624155427250](images/image-20220624155427250.png)
+![image-20220624155427250](https://github.com/ZihaoXTEI/EduAdminSys/tree/master/images/image-20220624155427250.png)
 
 ### 3.4 管理员管理子系统
 
@@ -62,41 +62,41 @@
 
 **分E-R图**：
 
-![image-20220624155512524](images/image-20220624155512524.png)
+![image-20220624155512524](https://github.com/ZihaoXTEI/EduAdminSys/tree/master/images/image-20220624155512524.png)
 
 ### 3.5 总体E-R图
 
 每名教师可以任教多门自己所在院系的班级，学生可以选择不同课程的班级。管理员可以对所有信息进行管理。
 
-![image-20220624155536654](images/image-20220624155536654.png)
+![image-20220624155536654](https://github.com/ZihaoXTEI/EduAdminSys/tree/master/images/image-20220624155536654.png)
 
 ## 四、项目效果
 
 ### 4.1 软件启动界面
 
-![image-20220624155945064](images/image-20220624155945064.png)
+![image-20220624155945064](https://github.com/ZihaoXTEI/EduAdminSys/tree/master/images/image-20220624155945064.png)
 
 ### 4.1 数据查询操作
 
-![image-20220624155644017](images/image-20220624155644017.png)
+![image-20220624155644017](https://github.com/ZihaoXTEI/EduAdminSys/tree/master/images/image-20220624155644017.png)
 
-![image-20220624155654789](images/image-20220624155654789.png)
+![image-20220624155654789](https://github.com/ZihaoXTEI/EduAdminSys/tree/master/images/image-20220624155654789.png)
 
-![image-20220624155900000](images/image-20220624155900000.png)
+![image-20220624155900000](https://github.com/ZihaoXTEI/EduAdminSys/tree/master/images/image-20220624155900000.png)
 
-![image-20220624155840853](images/image-20220624155840853.png)
+![image-20220624155840853](https://github.com/ZihaoXTEI/EduAdminSys/tree/master/images/image-20220624155840853.png)
 
 
 
 ### 4.2 数据更新操作
 
-![image-20220624155715202](images/image-20220624155715202.png)
+![image-20220624155715202](https://github.com/ZihaoXTEI/EduAdminSys/tree/master/images/image-20220624155715202.png)
 
 ### 4. 数据删除操作
 
-![image-20220624155744811](images/image-20220624155744811.png)
+![image-20220624155744811](https://github.com/ZihaoXTEI/EduAdminSys/tree/master/images/image-20220624155744811.png)
 
-![image-20220624155751999](images/image-20220624155751999.png)
+![image-20220624155751999](https://github.com/ZihaoXTEI/EduAdminSys/tree/master/images/image-20220624155751999.png)
 
 ## 五、参考文献
 
